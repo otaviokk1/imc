@@ -94,3 +94,8 @@ table{
     color: red;
     font-size: 1.2em;
 }
+
+input::placeholder{
+    font-size: 0.6em;
+}
+
